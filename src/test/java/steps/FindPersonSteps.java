@@ -54,8 +54,7 @@ public class FindPersonSteps {
 
     @After
     public void finish(){
-        requestSpecification = null;
-        response = null;
+        RestAssured.reset();
     }
 
 }

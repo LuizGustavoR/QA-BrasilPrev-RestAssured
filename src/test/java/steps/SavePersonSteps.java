@@ -51,8 +51,7 @@ public class SavePersonSteps {
 
     @After
     public void finish(){
-        requestSpecification = null;
-        response = null;
+        RestAssured.reset();
     }
 
 }

@@ -1,24 +1,20 @@
 {
-  "codigo": 16,
-  "nome": "Luiz",
+  "codigo": 0,
+  "nome": "Rommel Von",
   "cpf": "41390278867",
-  "enderecos":[
+  "enderecos": [
     {
-      "codigo": 123,
-      "logradouro": "Avenida Jardim Belem",
-      "numero": 666,
-      "complemento": "",
-      "bairro": "Boa Vista",
-      "cidade": "Sao Paulo",
-      "estado": "Sao Paulo"
-
+      "logradouro": "Rua Alexandre Dumas",
+      "numero": 123,
+      "complemento": "Empresa",
+      "bairro": "Chacara Santo Antonio",
+      "cidade": "São Paulo",
+      "estado": "SP"
     }
   ],
   "telefones": [
     {
-      "codigo": 55,
       "ddd": "16",
       "numero": "981733312"
-    }
-  ]
+    }]
 }

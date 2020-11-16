@@ -9,4 +9,4 @@ Feature: Save Person Functionality
 
     Given that user wants to save new person data
     When make a post request
-    Then return status 200
+    Then return status 201
