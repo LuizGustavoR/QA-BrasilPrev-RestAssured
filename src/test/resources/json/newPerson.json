@@ -1,0 +1,24 @@
+{
+  "codigo": 16,
+  "nome": "Luiz",
+  "cpf": "41390278867",
+  "enderecos":[
+    {
+      "codigo": 123,
+      "logradouro": "Avenida Jardim Belem",
+      "numero": 666,
+      "complemento": "",
+      "bairro": "Boa Vista",
+      "cidade": "Sao Paulo",
+      "estado": "Sao Paulo"
+
+    }
+  ],
+  "telefones": [
+    {
+      "codigo": 55,
+      "ddd": "16",
+      "numero": "981733312"
+    }
+  ]
+}
